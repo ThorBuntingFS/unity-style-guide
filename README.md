@@ -1,4 +1,4 @@
-# [Gamemakin](https://gamemak.in) Unity Style Guide() {
+# Unity Style Guide() {
 
 Forked from the [Gamemakin UE4 Style Guide](http://ue4.style)
 
